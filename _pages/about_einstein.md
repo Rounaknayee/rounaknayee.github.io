@@ -1,7 +1,7 @@
-
+<!-- 
 I'm Rounak Nayee, a Computer Science graduate from Rutgers University, specialized in the intersection of software development and DevOps. With a foundation in languages like C, C++, Java, and Python, I have an affinity for the complete software lifecycle. My expertise shines in cloud platforms, notably AWS and Azure, having transitioned infrastructures from physical data centers to the cloud efficiently.
 
-Automation is my mantra. From crafting AWS Lambda Functions to using Terraform for infrastructure-as-code, I aim for streamlined operations. My role as a Cloud Software Engineer Intern at New Jersey Transit saw me enhancing scalability and optimizing processes.
+Automation is my mantra. From crafting AWS Lambda Functions to using Terraform for infrastructure-as-code, I aim for streamlined operations. My role as a Cloud Software Engineer Intern at New Jersey Transit saw me enhancing scalability and optimizing processes. -->
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
