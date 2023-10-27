@@ -1,85 +1,85 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Rounak Nayee
-    - name: Date of Birth
-      value: 7th February 1999
-    - name: Languages
-      value: English, Hindi, Marathi, Gujrathi
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Rounak Nayee
+#     - name: Date of Birth
+#       value: 7th February 1999
+#     - name: Languages
+#       value: English, Hindi, Marathi, Gujrathi
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Master of Science in Computer Science
-      institution: Rutgers University, New Jersey, USA
-      year: September 2022 – December 2023
-      description:
-        - Relevant Coursework: Machine Learning, Artificial Intelligence, Software Engineering, Distributed parallel and cloud computing, Mobile Development.
-    - title: Bachelor of Science in Electronics and Telecommunication Engineering
-      institution: KJ Somaiya College Of Engineering, Mumbai, India
-      year: August 2016 – October 2020
-      description:
-        - Relevant Coursework: Cloud Computing, Data structures and Algorithms, Operating Systems and RTOS, OOP, Cryptography, Big Data, Image Processing, Computer Networks.
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: Master of Science in Computer Science
+#       institution: Rutgers University, New Jersey, USA
+#       year: September 2022 – December 2023
+#       description:
+#         - Relevant Coursework: Machine Learning, Artificial Intelligence, Software Engineering, Distributed parallel and cloud computing, Mobile Development.
+#     - title: Bachelor of Science in Electronics and Telecommunication Engineering
+#       institution: KJ Somaiya College Of Engineering, Mumbai, India
+#       year: August 2016 – October 2020
+#       description:
+#         - Relevant Coursework: Cloud Computing, Data structures and Algorithms, Operating Systems and RTOS, OOP, Cryptography, Big Data, Image Processing, Computer Networks.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Cloud Software Engineer Intern
-      institution: New Jersey Transit, Newark, New Jersey
-      year: June 2023 – present
-      description:
-        - Implemented AWS infrastructure using Terraform and more.
-        - Developed PS Scripts and AWS Lambda Functions.
-        - Partnered with the project manager for effective project management.
-        - Handled AD Management, Datacenter migration, and more.
-    - title: Infrastructure Technology Analyst
-      institution: Wolters Kluwer, Mumbai, India
-      year: October 2020 – July 2022
-      description:
-        - Designed and maintained virtual networks and serverless functions on cloud platforms.
-        - Worked on the "journey to cloud" project.
-        - Deployed and patched servers in the European region.
-        - Integrated subscriptions in AWS and Azure for efficient management.
-        - Managed Barracuda WAF and AWS services.
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Cloud Software Engineer Intern
+#       institution: New Jersey Transit, Newark, New Jersey
+#       year: June 2023 – present
+#       description:
+#         - Implemented AWS infrastructure using Terraform and more.
+#         - Developed PS Scripts and AWS Lambda Functions.
+#         - Partnered with the project manager for effective project management.
+#         - Handled AD Management, Datacenter migration, and more.
+#     - title: Infrastructure Technology Analyst
+#       institution: Wolters Kluwer, Mumbai, India
+#       year: October 2020 – July 2022
+#       description:
+#         - Designed and maintained virtual networks and serverless functions on cloud platforms.
+#         - Worked on the "journey to cloud" project.
+#         - Deployed and patched servers in the European region.
+#         - Integrated subscriptions in AWS and Azure for efficient management.
+#         - Managed Barracuda WAF and AWS services.
 
-- title: Projects
-  type: time_table
-  contents:
-    - title: Speakeasy
-      year: Year_Not_Provided
-      description: Designed a Whatsapp Bot for chat conversions using Terraform, AWS, and more.
-    - title: Tech Impact - Volunteer connect
-      year: Year_Not_Provided
-      description: Developed a web application with React JS, Express, and more.
-    - title: Web Portal for Career cell of university
-      year: Year_Not_Provided
-      description: Implemented a Web-based portal using Django MVC Framework and trained NLP models.
-    - title: Autonomous Bot under E-yantra, IIT Bombay
-      year: Year_Not_Provided
-      description: Designed an Autonomous bot using various technologies.
+# - title: Projects
+#   type: time_table
+#   contents:
+#     - title: Speakeasy
+#       year: Year_Not_Provided
+#       description: Designed a Whatsapp Bot for chat conversions using Terraform, AWS, and more.
+#     - title: Tech Impact - Volunteer connect
+#       year: Year_Not_Provided
+#       description: Developed a web application with React JS, Express, and more.
+#     - title: Web Portal for Career cell of university
+#       year: Year_Not_Provided
+#       description: Implemented a Web-based portal using Django MVC Framework and trained NLP models.
+#     - title: Autonomous Bot under E-yantra, IIT Bombay
+#       year: Year_Not_Provided
+#       description: Designed an Autonomous bot using various technologies.
 
-- title: Technical Skills
-  type: nested_list
-  contents:
-    - title: Languages
-      items:
-        - C, C++, Java, Python, JavaScript, HTML, CSS.
-    - title: Technologies/Frameworks
-      items:
-        - Django, Flask, GIT, VSCode, Azure, AWS, and more.
+# - title: Technical Skills
+#   type: nested_list
+#   contents:
+#     - title: Languages
+#       items:
+#         - C, C++, Java, Python, JavaScript, HTML, CSS.
+#     - title: Technologies/Frameworks
+#       items:
+#         - Django, Flask, GIT, VSCode, Azure, AWS, and more.
 
-- title: Certifications
-  type: list
-  contents:
-    - Azure Cloud Architect (AZ-104)
-    - Azure Fundamentals (AZ-900)
-    - C++ on Udemy
+# - title: Certifications
+#   type: list
+#   contents:
+#     - Azure Cloud Architect (AZ-104)
+#     - Azure Fundamentals (AZ-900)
+#     - C++ on Udemy
 
 # Assuming there aren't sections for Honors/Awards or Academic Interests based on your provided resume, those are omitted.
 # You can add back if needed.
 
-
+# DEFAULT TEMPLATE
 # - title: General Information
 #   type: map
 #   contents:

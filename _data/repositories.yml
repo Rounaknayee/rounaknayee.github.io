@@ -1,12 +1,13 @@
 github_users:
   - rounaknayee
-  # - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Rounaknayee/RealCheck
+  - Rounaknayee/speakeasy
+  - Rounaknayee/django-placement
+  - Rounaknayee/volunteer-connect
+  - Rounaknayee/volunteer-connect-backend 
+  - Rounaknayee/Teaching-Learning-Optimization
+  - Rounaknayee/RSA-for-image-in-MATLAB
+  - Rounaknayee/Elliptic-Curve-Cryptography
+  

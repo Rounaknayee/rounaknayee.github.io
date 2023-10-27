@@ -1,46 +1,46 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
-/* Solarized Color Palette */
-:root {
-  --solar-base03:  #002b36;
-  --solar-base02:  #073642;
-  --solar-base01:  #586e75;
-  --solar-base00:  #657b83;
-  --solar-base0:   #839496;
-  --solar-base1:   #93a1a1;
-  --solar-base2:   #eee8d5;
-  --solar-base3:   #fdf6e3;
-  --solar-yellow:  #b58900;
-  --solar-orange:  #cb4b16;
-  --solar-red:     #dc322f;
-  --solar-magenta: #d33682;
-  --solar-violet:  #6c71c4;
-  --solar-blue:    #268bd2;
-  --solar-cyan:    #2aa198;
-  --solar-green:   #859900;
-}
+// /* Solarized Color Palette */
+// :root {
+//   --solar-base03:  #002b36;
+//   --solar-base02:  #073642;
+//   --solar-base01:  #586e75;
+//   --solar-base00:  #657b83;
+//   --solar-base0:   #839496;
+//   --solar-base1:   #93a1a1;
+//   --solar-base2:   #eee8d5;
+//   --solar-base3:   #fdf6e3;
+//   --solar-yellow:  #b58900;
+//   --solar-orange:  #cb4b16;
+//   --solar-red:     #dc322f;
+//   --solar-magenta: #d33682;
+//   --solar-violet:  #6c71c4;
+//   --solar-blue:    #268bd2;
+//   --solar-cyan:    #2aa198;
+//   --solar-green:   #859900;
+// }
 
 :root {
 
-  --global-bg-color: var(--solar-base3);
-  --global-code-bg-color: var(--solar-base2);
-  --global-text-color: var(--solar-base00);
-  --global-theme-color: var(--solar-blue);
-  --global-hover-color: var(--solar-cyan);
-  --global-footer-bg-color: var(--solar-base2);
-  --global-footer-link-color: var(--solar-base00);
+  // --global-bg-color: var(--solar-base3);
+  // --global-code-bg-color: var(--solar-base2);
+  // --global-text-color: var(--solar-base00);
+  // --global-theme-color: var(--solar-blue);
+  // --global-hover-color: var(--solar-cyan);
+  // --global-footer-bg-color: var(--solar-base2);
+  // --global-footer-link-color: var(--solar-base00);
 
-  // --global-bg-color: #{$white-color};
-  // --global-code-bg-color: #{$code-bg-color-light};
-  // --global-text-color: #{$black-color};
-  // --global-text-color-light: #{$grey-color};
-  // --global-theme-color: #{$purple-color};
-  // --global-hover-color: #{$purple-color};
-  // --global-hover-text-color: #{$white-color};
-  // --global-footer-bg-color: #{$grey-color-dark};
-  // --global-footer-text-color: #{$grey-color-light};
-  // --global-footer-link-color: #{$white-color};
+  --global-bg-color: #{$white-color};
+  --global-code-bg-color: #{$code-bg-color-light};
+  --global-text-color: #{$black-color};
+  --global-text-color-light: #{$grey-color};
+  --global-theme-color: #{$purple-color};
+  --global-hover-color: #{$purple-color};
+  --global-hover-text-color: #{$white-color};
+  --global-footer-bg-color: #{$grey-color-dark};
+  --global-footer-text-color: #{$grey-color-light};
+  --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #{$white-color};
@@ -78,26 +78,26 @@
 html[data-theme='dark'] {
 
 
-  --global-bg-color: var(--solar-base03);
-  --global-code-bg-color: var(--solar-base02);
-  --global-text-color: var(--solar-base0);
-  --global-theme-color: var(--solar-cyan);
-  --global-hover-color: var(--solar-blue);
-  --global-footer-bg-color: var(--solar-base01);
-  --global-footer-link-color: var(--solar-base1);
-  // --global-bg-color: #{$grey-color-dark};
-  // --global-code-bg-color: #{$code-bg-color-dark};
-  // --global-text-color: #{$grey-color-light};
-  // --global-text-color-light: #{$grey-color-light};
-  // --global-theme-color: #{$cyan-color};
-  // --global-hover-color: #{$cyan-color};
-  // --global-hover-text-color: #{$white-color};
-  // --global-footer-bg-color: #{$grey-color-light};
-  // --global-footer-text-color: #{$grey-color-dark};
-  // --global-footer-link-color: #{$black-color};
-  // --global-distill-app-color: #{$grey-color-light};
-  // --global-divider-color: #424246;
-  // --global-card-bg-color: #{$grey-900};
+  // --global-bg-color: var(--solar-base03);
+  // --global-code-bg-color: var(--solar-base02);
+  // --global-text-color: var(--solar-base0);
+  // --global-theme-color: var(--solar-cyan);
+  // --global-hover-color: var(--solar-blue);
+  // --global-footer-bg-color: var(--solar-base01);
+  // --global-footer-link-color: var(--solar-base1);
+  --global-bg-color: #{$grey-color-dark};
+  --global-code-bg-color: #{$code-bg-color-dark};
+  --global-text-color: #{$grey-color-light};
+  --global-text-color-light: #{$grey-color-light};
+  --global-theme-color: #{$cyan-color};
+  --global-hover-color: #{$cyan-color};
+  --global-hover-text-color: #{$white-color};
+  --global-footer-bg-color: #{$grey-color-light};
+  --global-footer-text-color: #{$grey-color-dark};
+  --global-footer-link-color: #{$black-color};
+  --global-distill-app-color: #{$grey-color-light};
+  --global-divider-color: #424246;
+  --global-card-bg-color: #{$grey-900};
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;

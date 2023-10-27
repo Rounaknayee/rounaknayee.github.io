@@ -1,77 +1,190 @@
-{
+{  
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Rounak Nayee",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "rounaknayee007@gmail.com",
+    "url": "https://www.linkedin.com/in/rounaknayee/",
+    "summary": "Graduate Student in Computer Science with 2 years of professional experience in the cloud software industry with strong foundations in Networks, Algorithms, Mathematics, programming, and Databases, seeking full-time opportunities in the Technology domain to enhance my abilities and contribute to my organization.",
+    "location": "New Jersey, USA",
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "New Jersey Transit",
+      "position": "Cloud Software Engineer Intern",
+      "url": "https://www.njtransit.com/",
+      "startDate": "2023-06-05",
+      "endDate": "present",
+      "summary": "",
       "highlights": [
-        "Relativity"
+        "Implemented AWS infrastructure using Terraform and On-Prem VM WAre infrastructure.",
+        "Developed PS Scripts and AWS Lambda Functions to automate tasks reducing manual time required by 50%.",
+        "Handled AD Management, Commissioning & Decommissioning servers, and Datacenter migration."
+      ]
+    },
+    {
+      "name": "Wolters Kluwer",
+      "position": "Infrastructure Technology Analyst",
+      "url": "https://www.wolterskluwer.com/en/about-us/organization/india",
+      "startDate": "2020-10-12",
+      "endDate": "2022-07-20",
+      "summary": "",
+      "highlights": [
+        "Designed, maintained, and configured virtual machines, databases, and networks on MS Azure and AWS.",
+        "Reduced overall infrastructure expenditure by 55%.",
+        "Integrated 150+ subscriptions in AWS and Azure into Opsramp, Rapid7, and ServiceNow."
       ]
     }
   ],
-  "volunteer": [],
+  
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Rutgers University, New Jersey, USA",
+      "url": "https://www.rutgers.edu/",
+      "studyType": "Master of Science, Computer Science",
+      "startDate": "2022-09-05",
+      "endDate": "2023-12-22",
+      "score": "3.857",
+      "courses": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Software Engineering",
+        "Distributed parallel and cloud computing",
+        "Mobile Development"
+      ]
+    },
+    {
+      "institution": "KJ Somaiya College Of Engineering, Mumbai, India",
+      "url": "https://kjsce.somaiya.edu/en",
+      "area": "",
+      "studyType": "Bachelor of Technology, Electronics & Telecommunication Engineering",
+      "startDate": "2016-08-08",
+      "endDate": "2020-10-10",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Cloud Computing",
+        "Data structures and Algorithms",
+        "Operating Systems and RTOS",
+        "Cryptography",
+        "Big Data",
+        "Image Processing",
+        "Computer Networks"
       ]
     }
   ],
-  "awards": [
+  "projects": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "Real Check",
+      "description": "Designed a Whatsapp Bot to Convert Speech to Text and Image to Text directly through chat integrating Meta API.",
+      "technologies": ["Node.js","React.js","Docker","GitHub Actions","Terraform" ]
+    },
+    {
+      "name": "Speakeasy",
+      "description": "Designed a Whatsapp Bot to Convert Speech to Text and Image to Text directly through chat integrating Meta API.",
+      "technologies": ["Terraform", "AWS Transcribe", "AWS Lambda", "Python", "CloudFlare", "Twilio"]
+    },
+    {
+      "name": "Tech Impact - Volunteer connect",
+      "description": "Developed web application utilizing React JS, Express JS, and other technologies.",
+      "technologies": ["React JS", "Express", "Redis", "MySQL", "Docker"]
+    },
+    {
+      "name": "Web Portal for Career cell of university",
+      "description": "Trained NLP models and implemented a web-based portal.",
+      "technologies": ["Python", "Spacy", "Azure", "Django", "HTML", "CSS"]
+    },
+    {
+      "name": "Autonomous Bot under E-yantra, IIT Bombay",
+      "description": "Designed and implemented an Autonomous bot using various technologies.",
+      "technologies": ["Python", "Open CV", "Arduino", "Raspberry Pi", "Embedded C"]
     }
   ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
-  "languages": [
+  "awards": [],
+  "certificates": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "title": "Azure Cloud Architect (AZ-104)",
+      "awarder": "Microsoft",
+      "summary": "",
+      "url": ""
     },
+    {
+      "title": "Azure Fundamentals (AZ-900)",
+      "awarder": "Microsoft",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "title": "C++ on Udemy",
+      "awarder": "Udemy",
+      "summary": "",
+      "url": ""
+    }
+  ],
+  
+  "skills": [
+    {
+        "name": "Languages & Frameworks",
+        "icon": "icon_class_for_languages",
+        "level": "Expert",
+        "keywords": [ "Python","C++","Javascript","Node.js", "React.js", "Django","Flask", "Express JS"]
+    },
+    {
+        "name": "Cloud, Infra and DevOps",
+        "icon": "icon_class_for_cloud",
+        "level": "Advanced",
+        "keywords": ["AWS","Azure", "Docker Containers", "Terraform", "Kubernetes", "VM Ware", "Jenkins"]
+    },
+    {
+        "name": "Databases",
+        "icon": "icon_class_for_databases",
+        "level": "Intermediate",
+        "keywords": ["MySQL", "Redis","Postgre","Mongo DB", "Dynamo DB"]
+    },
+    {
+        "name": "Other Technologies",
+        "icon": "icon_class_for_other_tech",
+        "level": "Proficient",
+        "keywords": [ "GIT", "Ansible" , "Open CV", "Arduino", "Raspberry Pi", "R", "Embedded C"]
+    }
+],
+  "skills_expanded": [
+    "C",
+    "C++",
+    "Java",
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Django",
+    "Flask",
+    "GIT",
+    "VSCode",
+    "Azure",
+    "AWS",
+    "Windows",
+    "Linux",
+    "MySQL",
+    "React",
+    "Ansible",
+    "MongoDB",
+    "Docker containers",
+    "Kubernetes",
+    "Node.js",
+    "Terraform"
+  ],
+  "languages": [
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
     }
   ],
+  "volunteer": [],
   "interests": [],
-  "references": [],
-  "projects": []
+  "publications": [],
+  "references": []
+  
 }
