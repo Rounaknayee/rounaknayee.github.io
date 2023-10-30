@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: 
+description: Please click on each of the tiles to know more!
 nav: true
 nav_order: 2
 display_categories: 
@@ -49,7 +49,8 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <!-- This one is used to display the projects only as horizontal is false and categories too not defined -->
+  <div class="pgrid">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}

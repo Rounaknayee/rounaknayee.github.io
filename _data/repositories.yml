@@ -4,7 +4,7 @@ github_users:
 github_repos:
   - Rounaknayee/RealCheck
   - Rounaknayee/speakeasy
-  - Rounaknayee/django-placement
+  # - Rounaknayee/django-placement
   - Rounaknayee/volunteer-connect
   - Rounaknayee/volunteer-connect-backend 
   - Rounaknayee/Teaching-Learning-Optimization

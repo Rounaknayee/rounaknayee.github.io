@@ -36,3 +36,34 @@
     <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
     <script src="{{ '/assets/js/dark_mode.js' | relative_url | bust_file_cache }}"></script>
     {% endif %}
+
+    <!-- This style is being specifically used for the projects section -->
+    <style>
+    .pgrid {
+            display: flex;
+            flex-wrap: wrap;
+            /* justify-content: center; This will center the items */
+        }
+
+        .pgrid-item {
+            /* Adjust as needed, depending on how many items you want per row */
+            width: calc(33.333% - 20px); /* Assuming you want 3 items per row and 20px is for some margin */
+            margin: 10px; /* Half of the deducted margin in the width for left and right */
+        }
+
+        /* For tablets */
+        @media (max-width: 768px) {
+            .pgrid-item {
+                width: calc(50% - 20px); /* 2 items per row */
+            }
+        }
+
+        /* For mobile phones */
+        @media (max-width: 480px) {
+            .pgrid-item {
+                width: calc(100% - 20px); /* 1 item per row */
+            }
+        }
+    </style>
+
+

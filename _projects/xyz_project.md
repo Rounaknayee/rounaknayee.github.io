@@ -1,15 +1,12 @@
----
+<!-- ---
 layout: page
-title: Speak Easy
-description: A Whatsapp based chat bot client fully powered by AWS Cloud to extract text from Audio and Image messages.
-redirect: https://github.com/Rounaknayee/speakeasy
-img: assets/img/speakeasy.jpeg
-importance: 2
-
-category: work
-giscus_comments: true
+title: project 4
+description: another without an image
+img:
+importance: 3
+category: fun
 ---
-<!-- 
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
