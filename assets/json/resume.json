@@ -17,22 +17,23 @@
       "endDate": "present",
       "summary": "",
       "highlights": [
-        "Implemented AWS infrastructure using Terraform and On-Prem VM WAre infrastructure.",
-        "Developed PS Scripts and AWS Lambda Functions to automate tasks reducing manual time required by 50%.",
-        "Handled AD Management, Commissioning & Decommissioning servers, and Datacenter migration."
+        "Implemented AWS infrastructure using Terraform for services such as Transcribe, Lambdas, EC2 and VMWare ESXi virtualization along with vSphere to enhance the scalability and cost-efficiency of the NJT Application.",
+        "Developed PS scripts and AWS Lambda functions that automated routine tasks, cutting the time spent on manual processes in half and significantly boosting operational efficiency along with managing on-premises data center operations.",
+        "Partnered with the project manager to diligently manage project portfolios through the effective utilization of project management software, such as monday.com, while ensuring regular reporting and communication with senior leadership."
       ]
     },
     {
-      "name": "Wolters Kluwer",
+      "name": "Woltersdhhkjadia Kluwer",
       "position": "Infrastructure Technology Analyst",
       "url": "https://www.wolterskluwer.com/en/about-us/organization/india",
       "startDate": "2020-10-12",
       "endDate": "2022-07-20",
       "summary": "",
       "highlights": [
-        "Designed, maintained, and configured virtual machines, databases, and networks on MS Azure and AWS.",
-        "Reduced overall infrastructure expenditure by 55%.",
-        "Integrated 150+ subscriptions in AWS and Azure into Opsramp, Rapid7, and ServiceNow."
+        "Responsible for designing, maintaining, and configuring virtual machines, databases, virtual networks, and serverless functions on cloud platforms MS Azure and Amazon Web Services (AWS).",
+        "Collaborated with a team of 4 people on the project for journey to cloud, re-architecting the existing infrastructure from physical data centers to cloud, reducing the overall expenditure by approximately 50%.",
+        "Integrated 150+ subscriptions in AWS and Azure into Opsramp, Rapid7 and ServiceNow systems for an efficient single point of management with interactive data dashboards and critical metrics",
+        "Managed and implemented Barracuda WAF along with AWS CloudFront and Route 53 for DNS Management."
       ]
     }
   ],
@@ -75,22 +76,22 @@
   "projects": [
     {
       "name": "Real Check",
-      "description": "Designed a Whatsapp Bot to Convert Speech to Text and Image to Text directly through chat integrating Meta API.",
+      "description": "Developed an application Utilizing Blockchain-based smart contracts, providing a secure and transparent platform for manufacturers and suppliers to register and update product information, thereby enabling consumers to verify the genuineness of their purchases",
       "technologies": ["Node.js","React.js","Docker","GitHub Actions","Terraform" ]
     },
     {
       "name": "Speakeasy",
-      "description": "Designed a Whatsapp Bot to Convert Speech to Text and Image to Text directly through chat integrating Meta API.",
+      "description": "Designed a Whatsapp Bot to Convert Speech & Image to Text directly through chat integration using Twilio, enhancing accessibility as well as architecting a reliable Infrastructure-As-A-Code setup, enabling rapid and consistent deployment.",
       "technologies": ["Terraform", "AWS Transcribe", "AWS Lambda", "Python", "CloudFlare", "Twilio"]
     },
     {
       "name": "Tech Impact - Volunteer connect",
-      "description": "Developed web application utilizing React JS, Express JS, and other technologies.",
+      "description": "Developed a responsive web application tailored for volunteer coordination to facilitate the registration and scheduling of volunteer shifts and optimize volunteer management.",
       "technologies": ["React JS", "Express", "Redis", "MySQL", "Docker"]
     },
     {
       "name": "Web Portal for Career cell of university",
-      "description": "Trained NLP models and implemented a web-based portal.",
+      "description": "Trained NLP models using Python & SpaCy to extract the unstructured data from different types and formats of documents and Implemented a Web-based portal to integrate all the desired functionalities.",
       "technologies": ["Python", "Spacy", "Azure", "Django", "HTML", "CSS"]
     },
     {
@@ -111,14 +112,21 @@
       "title": "Azure Fundamentals (AZ-900)",
       "awarder": "Microsoft",
       "summary": "",
-      "url": ""
+      "url": "https://www.credly.com/badges/5ac615c6-5a67-4d01-a53e-e3c8d1844c8c"
+    },
+    {
+      "title": "Technical Product Management",
+      "awarder": "LinkedIn Learning",
+      "summary": "",
+      "url": "https://www.linkedin.com/learning/certificates/c7de59fc303f5753a32f160f39c8c65c6062f4d1881d149ac1d76170e54b328b"
     },
     {
       "title": "C++ on Udemy",
       "awarder": "Udemy",
       "summary": "",
-      "url": ""
+      "url": "https://www.udemy.com/certificate/UC-Q4P6M16R/"
     }
+
   ],
   
   "skills": [
