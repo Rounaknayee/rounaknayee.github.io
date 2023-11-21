@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
-description: Please click on each of the tiles to know more!
+description: #Please click on each of the tiles to know more!
 nav: true
 nav_order: 2
 display_categories: 
