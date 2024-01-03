@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Real Check 🛠️ 🏗️
+title: Real Check
 description: A Blockchain Based Fake product Detector.
 img: assets/img/realcheck.jpeg
 importance: 1
