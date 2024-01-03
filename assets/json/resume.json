@@ -14,7 +14,7 @@
       "position": "Cloud Software Engineer Intern",
       "url": "https://www.njtransit.com/",
       "startDate": "2023-06-05",
-      "endDate": "present",
+      "endDate": "2023-12-22",
       "summary": "",
       "highlights": [
         "Implemented AWS infrastructure using Terraform for services such as Transcribe, Lambdas, EC2 and VMWare ESXi virtualization along with vSphere to enhance the scalability and cost-efficiency of the NJT Application.",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "name": "Woltersdhhkjadia Kluwer",
+      "name": "Wolters Kluwer",
       "position": "Infrastructure Technology Analyst",
       "url": "https://www.wolterskluwer.com/en/about-us/organization/india",
       "startDate": "2020-10-12",
@@ -77,7 +77,7 @@
     {
       "name": "Real Check",
       "description": "Developed an application Utilizing Blockchain-based smart contracts, providing a secure and transparent platform for manufacturers and suppliers to register and update product information, thereby enabling consumers to verify the genuineness of their purchases",
-      "technologies": ["Node.js","React.js","Docker","GitHub Actions","Terraform" ]
+      "technologies": ["Node.js","React.js","Docker","AWS ECS","GitHub Actions","Terraform" ]
     },
     {
       "name": "Speakeasy",
@@ -190,7 +190,21 @@
       "fluency": "Fluent"
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Vacha Foundation",
+      "startDate": "2019-06-01",
+      "endDate": "2019-08-01",
+      "summary": "Assisting Grade 6-10 students with various ICT training and teaching them the basics of Mathematics and Geography."
+    },
+    {
+      "organization": "Teach for India",
+      "startDate": "2020-05-01",
+      "endDate": "2020-08-31",
+      "summary": "Teaching underpriviledged students belonging to slums of Mumbai in the subjects of English and Mathematics."
+    }
+
+  ],
   "interests": [],
   "publications": [],
   "references": []
