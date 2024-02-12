@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Tech Impact
-description: A Shift Scheduler for Volunteer.
+description: A Shift Scheduler for Philadelphia based Non-Profit.
 img: assets/img/techimpact.png
-redirect: https://github.com/viper-vm/tech_impact
+redirect: https://github.com/Rounaknayee/volunteer-connect
 importance: 3
 category: #work
 ---
