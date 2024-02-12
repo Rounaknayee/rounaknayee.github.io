@@ -2,25 +2,25 @@
 #   type: map
 #   contents:
 #     - name: Full Name
-#       value: Rounak Nayee
+#       value: Vivek Modi
 #     - name: Date of Birth
-#       value: 7th February 1999
+#       value: 8th April 2000
 #     - name: Languages
-#       value: English, Hindi, Marathi, Gujrathi
+#       value: English, Hindi, Gujrathi, French
 
 # - title: Education
 #   type: time_table
 #   contents:
 #     - title: Master of Science in Computer Science
 #       institution: Rutgers University, New Jersey, USA
-#       year: September 2022 – December 2023
+#       year: September 2022 – May 2024
 #       description:
 #         - Relevant Coursework: Machine Learning, Artificial Intelligence, Software Engineering, Distributed parallel and cloud computing, Mobile Development.
-#     - title: Bachelor of Science in Electronics and Telecommunication Engineering
-#       institution: KJ Somaiya College Of Engineering, Mumbai, India
-#       year: August 2016 – October 2020
+#     - title: Bachelor of Technology in Computer Science and Engineering
+#       institution: Indian Institute of Technology, Gandhinagar
+#       year: August 2018 – May 2022
 #       description:
-#         - Relevant Coursework: Cloud Computing, Data structures and Algorithms, Operating Systems and RTOS, OOP, Cryptography, Big Data, Image Processing, Computer Networks.
+#         - Relevant Coursework: Natural Language Processing, Data structures and Algorithms, Operating Systems, Machine Learning, Data Science, Discrete Mathematics, Computer Networks.
 
 # - title: Experience
 #   type: time_table

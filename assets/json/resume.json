@@ -1,39 +1,37 @@
 {  
   "basics": {
-    "name": "Rounak Nayee",
+    "name": "Vivek Modi",
     "image": "",
-    "email": "rounaknayee007@gmail.com",
-    "url": "https://www.linkedin.com/in/rounaknayee/",
-    "summary": "Graduate Student in Computer Science with 2 years of professional experience in the cloud software industry with strong foundations in Networks, Algorithms, Mathematics, programming, and Databases, seeking full-time opportunities in the Technology domain to enhance my abilities and contribute to my organization.",
+    "email": "vivekvm84001@gmail.com",
+    "url": "https://www.linkedin.com/in/vivek-modi1/",
+    "summary": "MS Computer Science student at Rutgers University and BTech graduate from IIT Gandhinagar. Specialized in Machine learning, NLP, and full-stack development with Django, flutter, AWS, React and Node.js. Aspiring to leverage my educational background and project experience towards innovative solutions in technology, aiming for roles that challenge and enhance my skills while contributing to the advancement of the field.",
     "location": "New Jersey, USA",
     "profiles": []
   },
   "work": [
     {
-      "name": "New Jersey Transit",
-      "position": "Cloud Software Engineer Intern",
-      "url": "https://www.njtransit.com/",
-      "startDate": "2023-06-05",
-      "endDate": "2023-12-22",
+      "name": "Machine Learning & Bioinformatics Lab, Rutgers University",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2023-01-15",
+      "endDate": "2024-05-12",
       "summary": "",
       "highlights": [
-        "Implemented AWS infrastructure using Terraform for services such as Transcribe, Lambdas, EC2 and VMWare ESXi virtualization along with vSphere to enhance the scalability and cost-efficiency of the NJT Application.",
-        "Developed PS scripts and AWS Lambda functions that automated routine tasks, cutting the time spent on manual processes in half and significantly boosting operational efficiency along with managing on-premises data center operations.",
-        "Partnered with the project manager to diligently manage project portfolios through the effective utilization of project management software, such as monday.com, while ensuring regular reporting and communication with senior leadership."
+        "Streamlined a ML learning-based pipeline to identify protein subcellular sequences working under the guidance of Dr. Iman Dehzangi.",
+        "Initialted a comprehensive deep learning pipeline to identify human activities, enhancing machine's understanding of complex movements."
       ]
     },
     {
-      "name": "Wolters Kluwer",
-      "position": "Infrastructure Technology Analyst",
-      "url": "https://www.wolterskluwer.com/en/about-us/organization/india",
-      "startDate": "2020-10-12",
-      "endDate": "2022-07-20",
+      "name": "Capgemini",
+      "position": "Machine Learning Intern",
+      "url": "https://www.capgemini.com/us-en/",
+      "startDate": "2020-05-10",
+      "endDate": "2020-07-30",
       "summary": "",
       "highlights": [
-        "Responsible for designing, maintaining, and configuring virtual machines, databases, virtual networks, and serverless functions on cloud platforms MS Azure and Amazon Web Services (AWS).",
-        "Collaborated with a team of 4 people on the project for journey to cloud, re-architecting the existing infrastructure from physical data centers to cloud, reducing the overall expenditure by approximately 50%.",
-        "Integrated 150+ subscriptions in AWS and Azure into Opsramp, Rapid7 and ServiceNow systems for an efficient single point of management with interactive data dashboards and critical metrics",
-        "Managed and implemented Barracuda WAF along with AWS CloudFront and Route 53 for DNS Management."
+        "Developed 'Priority Mailbox' and Sentiment Analysis COM add-in for Microsoft Office Outlook, streamlining email management and improved user experience by utilizing sentiment analysis to prioritize mails.",
+        "Employed Django, ML algorithms utilizing two distinct models, and SQLite database as the core technologies, Improved mail prioritization using multiple parameters, including initial click time and mail read duration.",
+        "Contributed a pivotal role in optimizing mail organization and enhancing productivity within the Outlook platform during the internship."
       ]
     }
   ],
@@ -44,8 +42,8 @@
       "url": "https://www.rutgers.edu/",
       "studyType": "Master of Science, Computer Science",
       "startDate": "2022-09-05",
-      "endDate": "2023-12-22",
-      "score": "3.857",
+      "endDate": "2024-05-12",
+      "score": "3.889",
       "courses": [
         "Machine Learning",
         "Artificial Intelligence",
@@ -55,104 +53,95 @@
       ]
     },
     {
-      "institution": "KJ Somaiya College Of Engineering, Mumbai, India",
-      "url": "https://kjsce.somaiya.edu/en",
+      "institution": "Indian Institute of Technology, Gandhinagar",
+      "url": "https://www.iitgn.ac.in/",
       "area": "",
-      "studyType": "Bachelor of Technology, Electronics & Telecommunication Engineering",
-      "startDate": "2016-08-08",
-      "endDate": "2020-10-10",
+      "studyType": "Bachelor of Technology, Computer Science and Engineering",
+      "startDate": "2018-08-08",
+      "endDate": "2022-05-10",
       "score": "",
       "courses": [
-        "Cloud Computing",
+        "Natural Language Processing",
         "Data structures and Algorithms",
-        "Operating Systems and RTOS",
-        "Cryptography",
-        "Big Data",
-        "Image Processing",
+        "Operating Systems",
+        "Machine Learning",
+        "Data Science",
+        "Discrete Mathematics",
         "Computer Networks"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Real Check",
-      "description": "Developed an application Utilizing Blockchain-based smart contracts, providing a secure and transparent platform for manufacturers and suppliers to register and update product information, thereby enabling consumers to verify the genuineness of their purchases",
-      "technologies": ["Node.js","React.js","Docker","AWS ECS","GitHub Actions","Terraform" ]
+      "name": "NLP research paper 'ComicBot: ChatBot Generating Jokes along with GIF'",
+      "description": "Authored an innovative research paper focused on the creation of jokes paired with GIFs utilizing the knowBERT model.",
+      "technologies": ["Tensorflow", "BERT", "GPT-2", "XLNET", "Emotion Classifier", "Sarcasm Detection", "Natural Language Processing" ]
     },
     {
-      "name": "Speakeasy",
-      "description": "Designed a Whatsapp Bot to Convert Speech & Image to Text directly through chat integration using Twilio, enhancing accessibility as well as architecting a reliable Infrastructure-As-A-Code setup, enabling rapid and consistent deployment.",
-      "technologies": ["Terraform", "AWS Transcribe", "AWS Lambda", "Python", "CloudFlare", "Twilio"]
+      "name": "Protein Subcellular Localization Prediction Using Machine Learning",
+      "description": "Utilized machine learning techniques to predict protein subcellular localization in Gram-positive bacteria, focusing on four cellular locations.",
+      "technologies": ["Tensorflow", "Rotation Forest", "RNN", "LSTM", "Machine Learning", "Python"]
     },
     {
       "name": "Tech Impact - Volunteer connect",
       "description": "Developed a responsive web application tailored for volunteer coordination to facilitate the registration and scheduling of volunteer shifts and optimize volunteer management.",
-      "technologies": ["React JS", "Express", "Redis", "MySQL", "Docker"]
+      "technologies": ["React JS", "Node JS", "MongoDB", "AWS", "Docker", "Playwright"]
     },
     {
-      "name": "Web Portal for Career cell of university",
-      "description": "Trained NLP models using Python & SpaCy to extract the unstructured data from different types and formats of documents and Implemented a Web-based portal to integrate all the desired functionalities.",
-      "technologies": ["Python", "Spacy", "Azure", "Django", "HTML", "CSS"]
+      "name": "Human Activity Recognition(HAR)",
+      "description": "Employed Deep Learning Models like Multimodal Transformer, and Action Transformer to detect postures, improving detection accuracies",
+      "technologies": ["Transformer", "Deep Learning", "Python", "Tensorflow", "Open CV"]
     },
     {
-      "name": "Autonomous Bot under E-yantra, IIT Bombay",
-      "description": "Designed and implemented an Autonomous bot using various technologies.",
-      "technologies": ["Python", "Open CV", "Arduino", "Raspberry Pi", "Embedded C"]
+      "name": "Mini-StackOverflow",
+      "description": "Developed a server client-based StackOverflow using flask and React.js showing Network handshakes",
+      "technologies": ["React JS", "Flask", "MySQL", "Mininet", "Wireshark"]
+    },
+    {
+      "name": "MacroHard",
+      "description": "E-Commerce Website for Technical and Non-Technical Projects",
+      "technologies": ["React JS", "Node JS", "DynamoDB", "AWS", "Cloud Computing"]
     }
   ],
   "awards": [],
-  "certificates": [
-    {
-      "title": "Azure Cloud Architect (AZ-104)",
-      "awarder": "Microsoft",
-      "summary": "",
-      "url": ""
-    },
-    {
-      "title": "Azure Fundamentals (AZ-900)",
-      "awarder": "Microsoft",
-      "summary": "",
-      "url": "https://www.credly.com/badges/5ac615c6-5a67-4d01-a53e-e3c8d1844c8c"
-    },
-    {
-      "title": "Technical Product Management",
-      "awarder": "LinkedIn Learning",
-      "summary": "",
-      "url": "https://www.linkedin.com/learning/certificates/c7de59fc303f5753a32f160f39c8c65c6062f4d1881d149ac1d76170e54b328b"
-    },
-    {
-      "title": "C++ on Udemy",
-      "awarder": "Udemy",
-      "summary": "",
-      "url": "https://www.udemy.com/certificate/UC-Q4P6M16R/"
-    }
-
-  ],
+  "certificates": [],
   
   "skills": [
     {
         "name": "Languages & Frameworks",
         "icon": "icon_class_for_languages",
         "level": "Expert",
-        "keywords": [ "Python","C++","Javascript","Node.js", "React.js", "Django","Flask", "Express JS"]
+        "keywords": [ "Python","C","Javascript", "HTML", "CSS"]
     },
     {
-        "name": "Cloud, Infra and DevOps",
+        "name": "Machine Learning",
         "icon": "icon_class_for_cloud",
         "level": "Advanced",
-        "keywords": ["AWS","Azure", "Docker Containers", "Terraform", "Kubernetes", "VM Ware", "Jenkins"]
+        "keywords": ["Tensorflow","Pytorch", "Deep Learning", "Transformer", "Huggingface", "Natural Language Processing", "Open CV"]
+    },
+    {
+        "name": "Web Development",
+        "icon": "icon_class_for_cloud",
+        "level": "Intermediate",
+        "keywords": ["AWS", "Docker Containers", "Node.js", "React.js", "VM Ware", "Django", "Flask"]
     },
     {
         "name": "Databases",
         "icon": "icon_class_for_databases",
         "level": "Intermediate",
-        "keywords": ["MySQL", "Redis","Postgre","Mongo DB", "Dynamo DB"]
+        "keywords": ["MongoDB", "DynamoDB", "MySQL", "SQlite"]
+    },
+    {
+        "name": "Networking",
+        "icon": "icon_class_for_cloud",
+        "level": "Intermediate",
+        "keywords": ["LTSpice", "Vivado", "Wireshark", "Mininet", "Kali Linux", "Ethical Hacking"]
     },
     {
         "name": "Other Technologies",
         "icon": "icon_class_for_other_tech",
         "level": "Proficient",
-        "keywords": [ "GIT", "Ansible" , "Open CV", "Arduino", "Raspberry Pi", "R", "Embedded C"]
+        "keywords": [ "GIT", "Latex" , "Matplotlib", "Autodesk", "Office"]
     }
 ],
   "skills_expanded": [
@@ -188,20 +177,28 @@
     {
       "language": "Hindi",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Gujarati",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"
     }
   ],
   "volunteer": [
     {
-      "organization": "Vacha Foundation",
-      "startDate": "2019-06-01",
-      "endDate": "2019-08-01",
-      "summary": "Assisting Grade 6-10 students with various ICT training and teaching them the basics of Mathematics and Geography."
+      "organization": "Leap Academy University Charter School",
+      "startDate": "2022-12-15",
+      "endDate": "2024-05-10",
+      "summary": "Assisting and Tutoring Grade 6-12 students with Mathematics and Science."
     },
     {
-      "organization": "Teach for India",
-      "startDate": "2020-05-01",
-      "endDate": "2020-08-31",
-      "summary": "Teaching underpriviledged students belonging to slums of Mumbai in the subjects of English and Mathematics."
+      "organization": "Amalthea IITGN",
+      "startDate": "2018-10-20",
+      "endDate": "2018-10-25",
+      "summary": "Volunteer Amalthea Tech Fest at IIT Gandhinagar"
     }
 
   ],

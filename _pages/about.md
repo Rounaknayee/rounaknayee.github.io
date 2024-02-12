@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: MS CS @ Rutgers University
+subtitle: Masters Computer Science, Rutgers University | BTech Computer Science, Indian Institute of Technology
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: rounak.jpg
+  image: vivek1.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -20,15 +20,17 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 <p style="text-align: justify;">
-I'm a Rutgers University Computer Science graduate with a passion for software development, Cloud Infrastructure and DevOps. I have a working proficiency in languages like Python, C, C++, Java, and JavaScript. Alongside these, I've also gained hands-on experience in various frameworks and tools that span web platforms crafted with Django and Flask, user interfaces designed using React, and backend solutions implemented with Node.js. Along with development, I'm well-versed in leveraging CI/CD tools, including Azure DevOps, Terraform, Docker, and Kubernetes, to streamline and optimize deployment processes. My forte lies in harnessing the power of cloud platforms like AWS and Azure, where I've successfully migrated and transformed legacy infrastructures. 
+I am currently a dedicated MS Computer Science student at Rutgers University, with a rich background from graduating with a BTech in Computer Science from the Indian Institute of Technology, Gandhinagar. Having ranked 701 in India for my entrance into IIT, my journey underscores a strong foundation in machine learning, data science, and advanced programming techniques. My expertise particularly shines in natural language processing (NLP) and machine learning (ML), alongside strong capabilities in React and Node.js for web development. These skills enable me to address complex problems innovatively. 
 </p>
 
 <p style="text-align: justify;">
- In recognition of my academic achievements and contributions, I was honored with both the Chancellor's Merit Scholarship and the Dean's Meritorious Scholarship, which significantly supported my graduate studies at Rutgers. Further deepening my engagement with academia, I had the privilege to assist Professor Iman Dehzangi as a Teaching Assistant for courses on C and Unix, as well as Operating Systems.
+ Working as a graduate research assistant under Professor Dehzangi, I contribute to projects that deepen my knowledge and application of NLP and ML, enhancing both my academic journey and the fields at large. This role allows me to bridge the gap between theoretical concepts and their practical applications, honing my research and development skills.
+
  </p>
 
 <p style="text-align: justify;">
- Throughout my academic journey, leadership has been a defining aspect of my experience. During my undergraduate studies, I held the esteemed position of Head of the Student Organization. This leadership trajectory continued in my graduate years, where I served as the Vice President of the Graduate School Student Association at Rutgers University.
+ My project work includes developing a sentiment analysis-based email prioritization add-on, authoring the "ComicBot" research paper to showcase my NLP skills, and implementing a multi-threaded web crawler. Additionally, I've created a modern e-commerce website and a server-client model for a Twitter-like platform, demonstrating my full-stack development expertise using React, Node.js, and AWS.
+
  </p>
 
 <p style="text-align: justify;">
@@ -36,7 +38,8 @@ Beyond my professional pursuits, I have a keen interest in staying updated with 
 </p>
 
 <p style="text-align: justify;">
-Feel free to connect with me on social media or delve deeper into my journey by switching tabs. I'd love for you to know more about who I am and what drives me.
+Feel free to reach out to discuss how my comprehensive background in ML, NLP, and web development, coupled with my academic achievements and project experiences, can be an asset to your team or project. I am keen to collaborate on initiatives that benefit from my technical skills and innovative approach.
+
 </p>
 <!-- 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)

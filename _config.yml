@@ -3,19 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Rounak
-middle_name: H
-last_name: Nayee
-email: rounaknayee007@gmail.com
+first_name: Vivek
+middle_name: U
+last_name: Modi
+email: vivekvm84001@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: > # text in the footer Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: rounak nayee, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: vivek modi, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://rounaknayee.github.io # the base hostname & protocol for your site
+url: https://vivekmodi.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -64,11 +64,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: rounaknayee # your GitHub user name
+github_username: viper-vm # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: rounaknayee # your LinkedIn user name
+linkedin_username: vivek-modi1 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -93,7 +93,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: rounak_nayee # your instagram id
+instagram_id: vivek___modi # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
